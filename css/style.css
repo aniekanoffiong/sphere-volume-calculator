@@ -1,0 +1,19 @@
+.container{width:100%;overflow:auto;}
+.row{margin:0 auto;width:80%;}
+.col-6{width:49%;float:left;}
+.border-right{border-right:1px solid #a0a0a0;}
+.clear{clear:both;}
+.img{width:50%;display:block;margin-left:auto;margin-right:auto;}
+.heading{text-decoration:underline;text-align:center;}
+form{width:70%;margin-left:auto;margin-right:auto;padding:15px 20px;text-align:center;}
+.rule{border-color:#afafaf;width:80%;margin:0 auto;}
+.input-group{width:50%;margin:10px auto;display:block;}
+.input{width:50%;border:1px solid #a0a0a0;height:20px;font-size:16px;padding:10px 20px;border-radius:3px;}
+.input-addon{margin:5px;}
+.input:focus{border: 1px solid #28B1DF;}
+.button{border:transparent;padding:15px 20px;display:block;margin:10px auto;background-color:#026f93;color:#fff;border-radius:3px;}
+.text-center{text-align:center;}
+.info{color:#026f93;text-decoration:underline;}
+.calculation{width:50%;margin-left:auto;margin-right:auto;}
+.inline{display:inline;}
+.error{color:#ce1c55;padding:15px 5px;background-color:#f9b8d3;border-radius:3px;}
